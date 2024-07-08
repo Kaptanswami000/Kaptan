@@ -1,2 +1,0 @@
-# Kaptan
-Swamkak
